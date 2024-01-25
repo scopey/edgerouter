@@ -1,4 +1,4 @@
-# edgerouter
+# Edgerouter scripts for the ER-X, ER-4, and likely other non UDM devices
 Edgerouter scripts I use
 
 lease.py 
