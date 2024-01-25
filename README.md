@@ -6,4 +6,7 @@ lease.py
 Grabs the current DHCP leases from the EdgeRouter and puts them into JSON.  You can do whatever you like from there.
 To use the script as is you need to set ENV variables for USER, PASS and HOST
 
+lease-sshkey.py
+
+Does the same as lease.py but more securely.  You need to have a ssh key setup with the router and make sure the entry is in the known_hosts file.  
 
